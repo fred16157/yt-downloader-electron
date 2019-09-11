@@ -1,4 +1,4 @@
-# youtube-dl
+# yt-downloader-electron
 
 > An electron-vue project
 

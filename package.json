@@ -1,5 +1,5 @@
 {
-  "name": "youtube-dl-electron",
+  "name": "yt-downloader-electron",
   "version": "0.0.1",
   "author": "강현구 <fred16157@gmail.com>",
   "description": "An electron-vue project",
@@ -55,11 +55,13 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "buefy": "^0.8.3",
+    "fibers": "^4.0.1",
     "jquery": "^3.4.1",
     "node-sass": "^4.12.0",
     "open": "^6.4.0",
     "popper.js": "^1.15.0",
     "request": "^2.88.0",
+    "sass": "^1.23.0-module.beta.1",
     "sass-loader": "^8.0.0",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
